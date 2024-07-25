@@ -11,9 +11,9 @@ Welcome to the official repository for Week 2 and Week 3 labs of the GIKI-SkyEle
 
 ## Week 3: Fundamentals of Deep Neural Networks
 - **Lab 11:** Implementing Basic Neural Networks.
-- **Lab 12:** Implementing Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs).
-- **Lab 13:** Exploring Deep Learning Frameworks and Autoencoders.
+- **Lab 12:** Implementing Regularization Techniques and Model Evaluation.
+- **Lab 13:** Exploring Deep Learning Frameworks - Implementing Convolutional Neural Networks (CNNs).
 - **Lab 14:** Implementing Transfer Learning and Fine-Tuning Pre-trained Models.
-- **Lab 15:** Implementing Regularization Techniques and Model Evaluation.
+- **Lab 15:** Basic GAN.
 
 
